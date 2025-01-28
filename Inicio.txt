@@ -1,0 +1,8 @@
+Este archivo contiene informacion del INICIO de nuestro programa
+
+
+MENU INICIO
+1- Colocar imagenes y sectores
+2- Colocar botones que nos direccionen a distintos sectores de la app
+3- Realizar form de inicio de sesion
+4- Crear carteles si no se coloca bien user y password.
