@@ -1,0 +1,8 @@
+# Ignorar Carpetas
+.vscode/
+
+#Ignorar un archivo en especifico.
+config.txt
+
+#Ignorar todos los archivos terminados en .py
+*.py

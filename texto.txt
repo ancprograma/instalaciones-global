@@ -5,9 +5,7 @@ todo lo que coloquemos aqui se va a visualizar en el block de notas
 <---- lineas de codigo
 con el atajo ctrl+s se guarda el archivo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-como configurar nuestro git con github
-git config --global user.name "TunombreDeUsuario"
-git config --global user.email "tumaildeusuario@example.com"
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Punto 2
